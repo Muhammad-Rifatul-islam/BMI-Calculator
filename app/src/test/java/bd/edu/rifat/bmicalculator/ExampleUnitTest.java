@@ -1,4 +1,4 @@
-package bd.edu.bd.bmicalculator;
+package bd.edu.rifat.bmicalculator;
 
 import org.junit.Test;
 

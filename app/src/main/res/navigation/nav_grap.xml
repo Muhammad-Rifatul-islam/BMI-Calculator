@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/homeFragemnt"
-        android:name="bd.edu.bd.bmicalculator.HomeFragemnt"
+        android:name="bd.edu.rifat.bmicalculator.HomeFragemnt"
         android:label="fragment_home_fragemnt"
         tools:layout="@layout/fragment_home_fragemnt" >
         <action
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/resultFragment"
-        android:name="bd.edu.bd.bmicalculator.ResultFragment"
+        android:name="bd.edu.rifat.bmicalculator.ResultFragment"
         android:label="fragment_result"
         tools:layout="@layout/fragment_result" >
         <action
@@ -27,7 +27,7 @@
     </fragment>
     <fragment
         android:id="@+id/referenceFragement"
-        android:name="bd.edu.bd.bmicalculator.ReferenceFragement"
+        android:name="bd.edu.rifat.bmicalculator.ReferenceFragement"
         android:label="reference_fragement"
         tools:layout="@layout/reference_fragement" />
 </navigation>

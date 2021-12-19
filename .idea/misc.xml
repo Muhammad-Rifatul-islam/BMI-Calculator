@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DIIT/Android Practice/BMICalculator/app/src/main/res/drawable/atlas.xml" value="0.14635416666666667" />
+        <entry key="..\:/DIIT/Android Practice/BMICalculator/app/src/main/res/drawable/round_btn.xml" value="0.14635416666666667" />
         <entry key="..\:/DIIT/Android Practice/BMICalculator/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/DIIT/Android Practice/BMICalculator/app/src/main/res/layout/fragment_home_fragemnt.xml" value="0.25416666666666665" />
         <entry key="..\:/DIIT/Android Practice/BMICalculator/app/src/main/res/layout/fragment_result.xml" value="0.25416666666666665" />

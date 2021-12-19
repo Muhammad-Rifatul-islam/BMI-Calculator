@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "bd.edu.bd.bmicalculator"
+        applicationId "bd.edu.rifat.bmicalculator"
         minSdk 23
         targetSdk 31
         versionCode 1

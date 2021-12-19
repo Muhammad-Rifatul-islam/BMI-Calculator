@@ -1,4 +1,4 @@
-package bd.edu.bd.bmicalculator;
+package bd.edu.rifat.bmicalculator;
 
 import android.os.Bundle;
 
@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import bd.edu.bd.bmicalculator.databinding.FragmentResultBinding;
+import bd.edu.rifat.bmicalculator.databinding.FragmentResultBinding;
 
 
 public class ResultFragment extends Fragment {

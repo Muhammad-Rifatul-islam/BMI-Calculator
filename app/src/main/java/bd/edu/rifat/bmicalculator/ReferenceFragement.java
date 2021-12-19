@@ -1,4 +1,4 @@
-package bd.edu.bd.bmicalculator;
+package bd.edu.rifat.bmicalculator;
 
 import android.os.Bundle;
 
