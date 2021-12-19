@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_grap"
+    app:startDestination="@id/homeFragemnt">
+
+    <fragment
+        android:id="@+id/homeFragemnt"
+        android:name="bd.edu.bd.bmicalculator.HomeFragemnt"
+        android:label="fragment_home_fragemnt"
+        tools:layout="@layout/fragment_home_fragemnt" >
+        <action
+            android:id="@+id/action_homeFragemnt_to_resultFragment"
+            app:destination="@id/resultFragment"
+            app:enterAnim="@android:anim/slide_in_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="bd.edu.bd.bmicalculator.ResultFragment"
+        android:label="fragment_result"
+        tools:layout="@layout/fragment_result" >
+        <action
+            android:id="@+id/action_resultFragment_to_referenceFragement"
+            app:destination="@id/referenceFragement"
+            app:enterAnim="@android:anim/slide_in_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/referenceFragement"
+        android:name="bd.edu.bd.bmicalculator.ReferenceFragement"
+        android:label="reference_fragement"
+        tools:layout="@layout/reference_fragement" />
+</navigation>
